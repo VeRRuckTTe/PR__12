@@ -1,0 +1,14 @@
+D:\Учеба (С#)\PR_12\PR_12\bin\Debug\PR_12.exe.config
+D:\Учеба (С#)\PR_12\PR_12\bin\Debug\PR_12.exe
+D:\Учеба (С#)\PR_12\PR_12\bin\Debug\PR_12.pdb
+D:\Учеба (С#)\PR_12\PR_12\obj\Debug\PR_12.csproj.AssemblyReference.cache
+D:\Учеба (С#)\PR_12\PR_12\obj\Debug\PR_12.csproj.CoreCompileInputs.cache
+D:\Учеба (С#)\PR_12\PR_12\obj\Debug\PR_12.exe
+D:\Учеба (С#)\PR_12\PR_12\obj\Debug\PR_12.pdb
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\bin\Debug\PR_12.exe.config
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\bin\Debug\PR_12.exe
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\bin\Debug\PR_12.pdb
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\obj\Debug\PR_12.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\obj\Debug\PR_12.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\obj\Debug\PR_12.exe
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_12\obj\Debug\PR_12.pdb
